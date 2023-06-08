@@ -24,6 +24,22 @@ namespace DMP_student.Controllers
         {
             return View();
         }
+        public IActionResult Apply()
+        {
+            return View();
+        }
+        public IActionResult QueryApplication()
+        {
+            return View();
+        }
+        public IActionResult QueryStatus()
+        {
+            return View();
+        }
+        public IActionResult SequenceChoice()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
