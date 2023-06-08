@@ -5,12 +5,28 @@
       "PackagePath": "staticwebassets\\DMP_student.bundle.scp.css"
     },
     {
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\all-krajee.min.css",
+      "PackagePath": "staticwebassets\\css\\all-krajee.min.css"
+    },
+    {
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\fileinput.min.css",
+      "PackagePath": "staticwebassets\\css\\fileinput.min.css"
+    },
+    {
       "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\all-krajee.min.js",
+      "PackagePath": "staticwebassets\\js\\all-krajee.min.js"
+    },
+    {
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\fileinput.min.js",
+      "PackagePath": "staticwebassets\\js\\fileinput.min.js"
     },
     {
       "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\site.js",

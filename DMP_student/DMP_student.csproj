@@ -7,11 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Views\Home\Apply.cshtml" />
+    <Content Remove="Views\Home\QueryApplication.cshtml" />
+    <Content Remove="Views\Home\QueryStatus.cshtml" />
     <Content Remove="Views\Home\SequenceChoice.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Views\Home\Apply.cshtml" />
+    <None Include="Views\Home\QueryApplication.cshtml" />
+    <None Include="Views\Home\QueryStatus.cshtml" />
     <None Include="Views\Home\SequenceChoice.cshtml" />
+    <None Include="wwwroot\css\all-krajee.min.css" />
+    <None Include="wwwroot\css\fileinput.min.css" />
+    <None Include="wwwroot\js\all-krajee.min.js" />
+    <None Include="wwwroot\js\fileinput.min.js" />
   </ItemGroup>
 
 </Project>
