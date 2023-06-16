@@ -1,20 +1,21 @@
 ﻿@{
     ViewData["Title"] = "申請單查詢";
 }
+
 <link rel="stylesheet" href="~/css/element.css" asp-append-version="true" />
 <link rel="stylesheet" href="~/css/queryApplication.css" asp-append-version="true" />
 
 
-<div class="announcement">
-    <div class="announcement-icon"><img src="~/img/announcement.svg" alt=""></div>
-    <div class="announcement-content text-secondary">公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告</div>
+<div id="announcement">
+    <div id="announcement-icon"><img src="~/img/announcement.svg" alt=""></div>
+    <div class="text-secondary">公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告</div>
 </div>
 <div class="center">
     <div class="content-group" id="query-application">
         <h2>申請單查詢</h2>
         <div class="query">
             <div class="text-secondary">學年期</div>
-            <select name="wish" id="">
+            <select name="semester">
                 <option value="">111</option>
             </select>
             <div class="btn-single">

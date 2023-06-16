@@ -1,5 +1,7 @@
+/*add font type*/
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
+/*add color*/
 :root {
     --lightorange: #FFEAB6;
     --orange: #EFDDAD;
