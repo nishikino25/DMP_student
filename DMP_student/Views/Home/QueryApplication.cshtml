@@ -1,10 +1,55 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
+﻿@{
+    ViewData["Title"] = "申請單查詢";
+}
+<link rel="stylesheet" href="~/css/element.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/queryApplication.css" asp-append-version="true" />
 
-</body>
-</html>
+
+<div class="announcement">
+    <div class="announcement-icon"><img src="~/img/announcement.svg" alt=""></div>
+    <div class="announcement-content text-secondary">公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告</div>
+</div>
+<div class="center">
+    <div class="content-group" id="query-application">
+        <h2>申請單查詢</h2>
+        <div class="query">
+            <div class="text-secondary">學年期</div>
+            <select name="wish" id="">
+                <option value="">111</option>
+            </select>
+            <div class="btn-single">
+                <button class="btn-primary">查詢</button>
+            </div>
+        </div>
+
+        <div class="application-form text-primary">
+            <div class="row-group row-primary">
+                <div class="col-1">
+                    <span class="pc">申請單號</span>
+                    <span class="m">單號</span>
+                </div>
+                <div class="col-2">申請日期</div>
+                <div class="col-3">志願序排</div>
+                <div class="col-4">申請單下載</div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-1">1111</div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+                <div class="col-4"></div>
+            </div>
+            <div class="row-group row-primary">
+                <div class="col-1">1111</div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+                <div class="col-4"></div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-1">1111</div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+                <div class="col-4"></div>
+            </div>
+        </div>
+    </div>
+</div>

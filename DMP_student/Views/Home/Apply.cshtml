@@ -1,11 +1,52 @@
 ﻿@{
-    ViewData["Title"] = "Apply";
+    ViewData["Title"] = "志願序申請";
 }
-<h1>@ViewData["Title"]</h1>
+<link rel="stylesheet" href="~/css/element.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/apply.css" asp-append-version="true" />
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<div class="announcement"> 
+    <div class="announcement-icon"><img src="~/img/announcement.svg" alt=""></div>
+    <div class="announcement-content text-secondary">公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告</div>
 </div>
+<div class="center">
+    <div class="content-group" id="apply">
+        <div class="btn-group">
+            <button class="btn-secondary">輔系申請</button>
+            <button class="btn-primary">雙主修申請</button>
+        </div>
+        <div class="select-label text-secondary">輔系申請</div>
+        <select name="wish" id="">
+            <option value="">選擇志願</option>
+        </select>
+        <div class="btn-single">
+            <button class="btn-primary"><img src="~/img/add.svg" alt="">加入輔系排序列表</button>
+        </div>
+
+        <div class="text-accent">申請清單</div>
+        <div class="apply-sequence text-primary">
+            <div class="row-group row-primary">
+                <div class="col-1">輔系</div>
+                <div class="col-2">刪除</div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-1">輔系1</div>
+                <div class="col-2"><img src="~/img/delete.svg" alt=""></div>
+            </div>
+            <div class="row-group row-primary">
+                <div class="col-1">輔系2</div>
+                <div class="col-2"><img src="~/img/delete.svg" alt=""></div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-1">輔系3</div>
+                <div class="col-2"><img src="~/img/delete.svg" alt=""></div>
+            </div>
+        </div>
+        <div class="btn-single">
+            <button class="btn-primary">開始排序</button>
+        </div>
+    </div>
+</div>
+
 
 

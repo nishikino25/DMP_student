@@ -60,3 +60,34 @@ F:\NTUST-計中打工\202305 輔系雙主修\DMP_student\DMP_student\obj\Debug\n
 F:\NTUST-計中打工\202305 輔系雙主修\DMP_student\DMP_student\obj\Debug\net6.0\scopedcss\projectbundle\DMP_student.bundle.scp.css
 F:\NTUST-計中打工\202305 輔系雙主修\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.genruntimeconfig.cache
 F:\NTUST-計中打工\202305 輔系雙主修\DMP_student\DMP_student\obj\Debug\net6.0\ref\DMP_student.dll
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\appsettings.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\DMP_student.staticwebassets.runtime.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\DMP_student.exe
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\DMP_student.deps.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\DMP_student.runtimeconfig.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\DMP_student.dll
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\bin\Debug\net6.0\DMP_student.pdb
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.csproj.AssemblyReference.cache
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.AssemblyInfoInputs.cache
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.AssemblyInfo.cs
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.csproj.CoreCompileInputs.cache
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.RazorAssemblyInfo.cache
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.RazorAssemblyInfo.cs
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.DMP_student.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.build.DMP_student.props
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DMP_student.props
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DMP_student.props
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\scopedcss\bundle\DMP_student.styles.css
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\scopedcss\projectbundle\DMP_student.bundle.scp.css
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.dll
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\refint\DMP_student.dll
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.pdb
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.genruntimeconfig.cache
+C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\ref\DMP_student.dll
