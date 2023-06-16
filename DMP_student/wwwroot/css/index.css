@@ -2,6 +2,7 @@
     display: flex;
     background-color:white;
     padding: 10px;
+    margin: 20px;
 }
 
 #announcement-icon {
@@ -26,16 +27,24 @@
 }
 
 .block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     background-color: white;
-    width:30%;
-    hight:300px;
+    border-radius: 25px;
+    width: 250px;
+    height: 200px;
+    padding: 30px 0 10px 0;
+    box-shadow: 0px 10px 10px -5px gray;
 }
 
-p{
-
+p {
+    margin:0;
 }
 
 .block .fuction-word {
+    font-weight: bold;
     font-size: 24px;
     color: var(--brown);
+    text-decoration: none;
 }

@@ -10,18 +10,21 @@
     </div>
     <div class="blocks">
         <div class="block">
-            <p>我已經申請過輔系/雙主修我想知道現在...</p>
-            <div class="fuction-word">修讀狀態</div>
+            <p>我已經申請過輔系/雙主修<br>我想知道現在...</p>
+            <a class="fuction-word" asp-area="" asp-controller="Home" asp-action="QueryStatus">修讀狀態</a>
         </div>
         <div class="block">
             <p>我想要申請輔系/雙主修...... </p>
-            <div>志願序申請</div>
-            <div>志願序排序</div>
+            <div>
+                <a class="fuction-word" asp-area="" asp-controller="Home" asp-action="Apply">志願序申請</a> <br>
+                <a class="fuction-word" asp-area="" asp-controller="Home" asp-action="SequenceChoice">志願序排序</a>
+            </div>
         </div>
         <div class="block">
-            <p>我已經申請過輔系/雙主修 我想知道現在...</p>
-            <div>志願序查詢</div>
+            <p>我剛申請了輔系/雙主修<br>想知道申請狀況......</p>
+            <a class="fuction-word" asp-area="" asp-controller="Home" asp-action="QueryApplication">申請單查詢</a>
         </div>
+        
     </div>
 </div>
 
