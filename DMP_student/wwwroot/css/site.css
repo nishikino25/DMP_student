@@ -1,5 +1,13 @@
+:root {
+    --lightorange: #FFEAB6;
+    --brown: #4D483B;
+    --gray: #464646;
+    --font-family-sans-serif: "Roboto",sans-serif;
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+
 html {
-  font-size: 14px;
+    font-size: 14px;    
 }
 
 @media (min-width: 768px) {
@@ -15,4 +23,5 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: var(--lightorange);
 }

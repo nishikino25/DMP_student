@@ -1,0 +1,41 @@
+﻿#announcement {
+    display: flex;
+    background-color:white;
+    padding: 10px;
+}
+
+#announcement-icon {
+    background-image: url("../img/sound.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: transparent;
+    border: 0;
+    width: 30px;
+    margin: 0px 10px 0px 10px;
+}
+
+#announcement-word {
+    font-weight: bold;
+    line-height:20px;
+}
+.blocks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.block {
+    background-color: white;
+    width:30%;
+    hight:300px;
+}
+
+p{
+
+}
+
+.block .fuction-word {
+    font-size: 24px;
+    color: var(--brown);
+}
