@@ -1,13 +1,26 @@
+/*add font type*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+/*add color*/
 :root {
     --lightorange: #FFEAB6;
+    --orange: #EFDDAD;
     --brown: #4D483B;
+    --lightbrown: #4D433B;
+    --darkbrown: #3B4A4D;
     --gray: #464646;
+    --lightgray: #898A78;
+    --morelightgray: #F3F3F3;
+    --darkgray: #8A8878;
     --font-family-sans-serif: "Roboto",sans-serif;
     --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --font-family: 'Inter', sans-serif;
 }
 
+
 html {
-    font-size: 14px;    
+    font-size: 14px;
+    font-family: var(--font-family);
 }
 
 @media (min-width: 768px) {

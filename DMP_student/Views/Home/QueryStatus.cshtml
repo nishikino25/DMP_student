@@ -1,10 +1,57 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
+﻿@{
+    ViewData["Title"] = "修讀狀態";
+}
+<link rel="stylesheet" href="~/css/element.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/queryStatus.css" asp-append-version="true" />
 
-</body>
-</html>
+<div id="announcement">
+    <div id="announcement-icon"><img src="~/img/announcement.svg" alt=""></div>
+    <div class="text-secondary">公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告</div>
+</div>
+
+<div class="center">
+    <div class="content-group" id="query-status">
+        <h2>修讀狀態</h2>
+        <!-- 雙主修 -->
+        <div class="text-secondary">雙主修修讀狀態</div>
+
+        <div class="study-status text-primary">
+            <div class="row-group row-primary">
+                <div class="col-1">系所</div>
+                <div class="col-2">修讀狀態</div>
+                <div class="col-3">備註</div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-1">工業管理系</div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+
+        <!-- 輔系 -->
+        <div class="text-secondary">輔系修讀狀態</div>
+
+        <div class="study-status text-primary">
+            <div class="row-group row-primary">
+                <div class="col-1">系所</div>
+                <div class="col-2">修讀狀態</div>
+                <div class="col-3">備註</div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-1">財務金融</div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+            </div>
+            <div class="row-group row-primary">
+                <div class="col-1">設計系</div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-1">電機系</div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+    </div>
+</div>
