@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Content Remove="Views\Home\Apply - 複製.cshtml" />
+    <Content Remove="wwwroot\img\sound.svg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,7 +18,6 @@
     <None Include="wwwroot\js\fileinput.min.js" />
     <None Include="wwwroot\img\close.svg" />
     <None Include="wwwroot\img\hambuger.svg" />
-    <None Include="wwwroot\img\sound.svg" />
   </ItemGroup>
 
 </Project>
