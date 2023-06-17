@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\css\\queryStatus.css"
     },
     {
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\sequenceChoice.css",
+      "PackagePath": "staticwebassets\\css\\sequenceChoice.css"
+    },
+    {
       "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -63,10 +67,6 @@
     {
       "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\select.svg",
       "PackagePath": "staticwebassets\\img\\select.svg"
-    },
-    {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\sound.svg",
-      "PackagePath": "staticwebassets\\img\\sound.svg"
     },
     {
       "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\all-krajee.min.js",

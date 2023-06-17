@@ -1,10 +1,45 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
+﻿@{
+    ViewData["Title"] = "志願序排序";
+}
+<link rel="stylesheet" href="~/css/element.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/sequenceChoice.css" asp-append-version="true" />
 
-</body>
-</html>
+
+<div id="announcement">
+    <div id="announcement-icon"><img src="~/img/announcement.svg" alt=""></div>
+    <div id="announcement-word">公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告公告</div>
+</div>
+<div class="center">
+    <div class="content-group" id="apply">
+        <div class="btn-group">
+            <button class="btn-secondary">輔系申請</button>
+            <button class="btn-primary">雙主修申請</button>
+        </div>
+        <div class="select-label text-secondary">輔系排序</div>
+        <div class="text-accent">申請清單</div>
+        <div class="apply-sequence text-primary">
+            <div class="row-group row-primary">
+                <div class="col-0"></div>
+                <div class="col-1">志願序</div>
+                <div class="col-2">輔系</div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-0"><img src="~/img/hambuger.svg"></div>
+                <div class="col-1">志願序1</div>
+                <div class="col-2">輔系1</div>
+            </div>
+            <div class="row-group row-primary">
+                <div class="col-0"><img src="~/img/hambuger.svg"></img></div>
+                <div class="col-1">志願序2</div>
+                <div class="col-2">輔系2</div>
+            </div>
+            <div class="row-group row-secondary">
+                <div class="col-0"><img src="~/img/hambuger.svg"></img></div>
+                <div class="col-1">志願序3</div>
+                <div class="col-2">輔系3</div>
+            </div>
+        </div>
+        <div class="btn-single">
+            <button class="btn-primary">開始排序</button>
+        </div>
+    </div>

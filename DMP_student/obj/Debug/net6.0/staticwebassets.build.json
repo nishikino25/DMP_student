@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2APe4UwG/cOIQmFlukCCVe0mpWZnKpm/gOXMRWOu8e8=",
+  "Hash": "WoKglkxgRHXOIHSBMUkfshm9jMskcoCdbxe3/1qsTF0=",
   "Source": "DMP_student",
   "BasePath": "_content/DMP_student",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\css\\queryStatus.css"
     },
     {
+      "Identity": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\sequenceChoice.css",
+      "SourceId": "DMP_student",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\",
+      "BasePath": "_content/DMP_student",
+      "RelativePath": "css/sequenceChoice.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sequenceChoice.css"
+    },
+    {
       "Identity": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\site.css",
       "SourceId": "DMP_student",
       "SourceType": "Discovered",
@@ -304,23 +321,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\select.svg"
-    },
-    {
-      "Identity": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\sound.svg",
-      "SourceId": "DMP_student",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\",
-      "BasePath": "_content/DMP_student",
-      "RelativePath": "img/sound.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\sound.svg"
     },
     {
       "Identity": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\all-krajee.min.js",

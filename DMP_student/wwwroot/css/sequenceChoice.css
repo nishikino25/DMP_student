@@ -1,0 +1,113 @@
+﻿#announcement {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+    margin: 20px 10px;
+    border-radius: 5px;
+}
+
+#announcement-icon {
+    display: flex;
+    align-items: center;
+    width: 30px;
+    margin: 0 20px;
+}
+
+#announcement-word {
+    display: flex;
+    text-align: left;
+    font-weight: bold;
+    line-height: 20px;
+    color: var(--gray);
+}
+/* tab */
+.btn-primary > img {
+    margin-right: 4px;
+}
+
+.btn-group > .btn-secondary {
+    margin: 0 8px 0 0;
+}
+
+.text-secondary {
+    color: var(--gray);
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+}
+.text-accent {
+    color: var(--lightgray);
+    font-size: 15px;
+    text-align: left;
+}
+
+/* sequence */
+.apply-sequence {
+    display: flex;
+    flex-direction: column;
+    border: solid 2px var(--darkgray);
+    border-radius: 16px;
+    padding: 14px 0;
+    margin: 8px 0;
+}
+
+.row-group {
+    display: flex;
+    flex-direction: row;
+    padding: 0 16px;
+    line-height: 2rem;
+}
+
+.row-secondary {
+    background-color: var(--morelightgray);
+}
+.col-0 {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-1 {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-2 {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 20px;
+    border-left: solid 2px var(--orange);
+}
+
+@media all and (max-width: 800px) {
+    #announcement {
+        background-color: var(--lightorange);
+    }
+
+    #announcement-icon {
+        background-color: white;
+        border-radius: 99px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        width: -moz-fit-content;
+        width: fit-content;
+        padding: 10px;
+    }
+
+    #announcement-word {
+        background-color: white;
+        border-radius: 28px;
+        padding: 16px;
+        height: 100%;
+    }
+
+    .btn-group {
+        justify-content: center;
+    }
+}
