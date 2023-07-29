@@ -9,53 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DMP_student
 build_property.RootNamespace = DMP_student
-build_property.ProjectDir = F:\NTUST-計中打工\202305 輔系雙主修\DMP_student\DMP_student\
+build_property.ProjectDir = F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\NTUST-計中打工\202305 輔系雙主修\DMP_student\DMP_student
+build_property.MSBuildProjectDirectory = F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Home/Apply.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/Apply.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcHBseS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Home/Index.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/Dashboard2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Home/Privacy.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Home/QueryApplication.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/QueryApplication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWVyeUFwcGxpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Home/QueryStatus.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/QueryStatus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWVyeVN0YXR1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Home/SequenceChoice.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Home/SequenceChoice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXF1ZW5jZUNob2ljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Shared/Error.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/_ViewImports.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/_ViewStart.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student/DMP_student/Views/Shared/_Layout.cshtml]
+[F:/NTUST-計中打工/202305 輔系雙主修/DMP_student2/DMP_student/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u7t5w672y3

@@ -1,0 +1,231 @@
+﻿@{
+    //Layout = "~/Views/Shared/_LayoutStudent.cshtml";
+       
+}
+<script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.7.14/vue.js"></script>
+<link rel="stylesheet" href="~/css/element.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/dashboard2.css" asp-append-version="true" />
+
+@{
+    ViewData["Title"] = "公告";
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<div class="text-center" id="contentId">
+    
+    <div class="modal" tabindex="-1" role="dialog" id="modal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">{{announcementSettingTemp.Title}}</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>{{announcementSettingTemp.Content}}</p>
+                    <a v-if="announcementSettingTemp.Href!=undefined" :href="announcementSettingTemp.Href">{{announcementSettingTemp.Href}}</a>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">關閉</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <alert v-bind:message="alert.message" v-bind:show="alert.show"></alert>
+        <message v-bind:title="this.dialog.title" v-bind:data="dialog.data" v-bind:message="dialog.message" v-bind:func="dialog.func"></message>
+    </div>
+    <div id="dashboard">
+        <div id="announcement">
+            <div id="announcement-icon"><img src="~/img/announcement.svg" /></div>
+            <div id="announcement-word">【公告】雙主修、輔系最新消息 · 本校學士班學生修讀雙主修應修科目表 · 本校學士班學生修讀輔系應修科目表 · 國立臺灣大學系統學生跨校修讀臺灣科技大學輔雙各系應修科目表.</div>
+        </div>
+        <div id="announcement" v-for="item in announcementSetting">
+            <div id="announcement-icon"><img src="~/img/announcement.svg" /></div>
+            <div id="announcement-word" v-on:click="openModal(item)">{{item.Title}}</div>
+        </div>
+    </div>
+    <div class="blocks">
+        <div class="block">
+            <p class="fuction-word">學生基本資料</p>
+            <div class="studentinfo-group">
+                <p class="studentinfo">學號：{{studentinfo.StudentId}}</p>
+                <p class="studentinfo">姓名：{{studentinfo.StuName}}</p>
+                <p class ="studentinfo">系所：{{studentinfo.Department}}</p>
+            </div>
+        </div>
+        <div class="block">
+            <p class="fuction-word">修讀狀態</p>
+            <!-- 雙主修 -->
+            <div class="text-secondary">雙主修</div>
+            <div class="application-form text-primary">
+                <div class="row-group row-primary">
+                    <div class="col-1">系所</div>
+                    <div class="col-2">修讀狀態</div>
+                    <div class="col-3">備註</div>
+                </div>
+                <div class="row-group" v-for="item,index in doubleDegrees">
+                    <div class="col-1">{{item.ApplyDepartment}}</div>
+                    <div class="col-2">{{item.StudyStatus}}</div>
+                    <div class="col-3">{{item.Note}}</div>
+                </div>
+            </div>
+            <!-- 輔系 -->
+            <div class="text-secondary">輔系</div>
+        <div class="application-form text-primary">
+                <div class="row-group row-primary">
+                    <div class="col-1">系所</div>
+                    <div class="col-2">修讀狀態</div>
+                    <div class="col-3">備註</div>
+                </div>
+                <div class="row-group" v-for="item,index in assistDep">
+                    <div class="col-1">{{item.ApplyDepartment}}</div>
+                    <div class="col-2">{{item.StudyStatus}}</div>
+                    <div class="col-3">{{item.Note}}</div>
+                </div>
+            </div>
+                
+        </div>
+    </div>
+</div>
+
+<script>
+    var content = new Vue({
+        el: '#contentId',
+        ready: function () {
+        },
+        data: {
+            studentinfo:{},
+            doubleDegrees: [],
+            assistDep: [],
+            announcementSetting: [],
+            announcementSettingTemp: {
+                Title: '',
+                Content: '',
+                Href: '',
+            },
+            alert: {
+                message: '',
+                show: false,
+            },
+            dialog: {
+                title: "",
+                message: "",
+                data: {},
+                func: Function
+            }
+        },
+        created: function () {
+            var vm = this;
+            vm.getDoubleAndAssist();
+            vm.getAll();
+            vm.getStudentInfo();
+        },
+        methods: {
+            getAll: function () {
+                let vm = this;
+                let a={};
+                a.Content = "test";
+                a.Href = "https://google.com.tw";
+                a.Title = "sfdsfs";
+                 vm.announcementSetting.push(a);
+            },
+            openModal: function (item) {
+                let vm = this;
+                vm.announcementSettingTemp.Href = item.Href;
+                vm.announcementSettingTemp.Content = item.Content;
+                vm.announcementSettingTemp.Title = item.Title;
+                $('#modal').modal('show');
+            },
+            getDoubleAndAssist: function () {
+                let vm = this;
+                let a = {};
+                a.StudentNo = "test";
+                a.ApplySemester = "https://google.com.tw";
+                a.ApplyDate = "sfdsfs";
+                a.ApplyDepartment = "資工系";
+                a.StudyStatus = "完成修業";
+                a.Note = "2023/02/02";
+                vm.assistDep.push(a);
+                let b = {};
+                b.StudentNo = "dfafda";
+                b.ApplySemester = "https://google.com.tw";
+                b.ApplyDate = "fasddaf";
+                b.ApplyDepartment = "財務金融學士學位學程";
+                b.StudyStatus = "修讀中";
+                b.Note = "無";
+                vm.doubleDegrees.push(b);
+                let c = {};
+                c.StudentNo = "test3";
+                c.ApplySemester = "https://google.com.tw";
+                c.ApplyDate = "sfdsfs";
+                c.ApplyDepartment = "資管系";
+                c.StudyStatus = "完成修業";
+                c.Note = "2023/02/02";
+                vm.assistDep.push(c);
+                let d = {};
+                d.StudentNo = "dfafda3";
+                d.ApplySemester = "https://google.com.tw";
+                d.ApplyDate = "fasddaf";
+                d.ApplyDepartment = "資管系";
+                d.StudyStatus = "完成修業";
+                d.Note = "2023/02/02";
+                vm.doubleDegrees.push(d);
+
+                //fetch('@Url.Action("GetDoubleAndAssist", "QueryStudyStatus")')
+                //    .then(response => response.json())
+                //    .then(json => {
+                //        if (JSON.parse(json.serverMessage) == '') {
+                //            vm.doubleDegrees = JSON.parse(json.serverModelA);
+                //            vm.assistDep = JSON.parse(json.serverModelB);
+                //        }
+                //        else {
+                //        }
+                //    })
+                //    .catch(error => {
+                //        console.log(jqXHR)
+                //    });
+            },
+            showAlert: function (message, isShow) {
+        },
+        getStudentInfo: function () {
+            let vm = this;
+
+                let a = {};
+                a.StuName = "王曉明";
+                a.StudentId = "B11108000";
+                a.EducationalSystem = "四技";
+                a.Department = "企管系";
+                a.Email = "B11108000@gapps.ntust.edu.tw";
+                a.ContactPhone = "0912345678";
+                vm.studentinfo=a;
+            //const requestOptions = {
+            //    method: "POST",
+            //    headers: { "Content-Type": "application/json" },
+            //};
+            //fetch("@Url.Action("QueryStudentInfo", "Home")", requestOptions)
+            //    .then(response => response.json())
+            //    .then(json => {
+            //        if (JSON.parse(json.serverMessage) == '') {
+            //            vm.studentinfo = JSON.parse(json.serverModel);
+            //        }
+            //        else {
+                        
+            //        }
+            //    })
+            //    .catch(error => {
+            //    });
+        },
+        showAlert: function (message, isShow) {
+                var vm = this;
+                vm.alert.message = message;
+                vm.alert.show = isShow;
+                $('#Alert').modal('show');
+            },
+        }
+    })
+</script>
+

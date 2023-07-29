@@ -1,311 +1,319 @@
 {
   "Files": [
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DMP_student.bundle.scp.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DMP_student.bundle.scp.css",
       "PackagePath": "staticwebassets\\DMP_student.bundle.scp.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\all-krajee.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\all-krajee.min.css",
       "PackagePath": "staticwebassets\\css\\all-krajee.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\apply.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\apply.css",
       "PackagePath": "staticwebassets\\css\\apply.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\element.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\dashboard2.css",
+      "PackagePath": "staticwebassets\\css\\dashboard2.css"
+    },
+    {
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\element.css",
       "PackagePath": "staticwebassets\\css\\element.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\fileinput.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\fileinput.min.css",
       "PackagePath": "staticwebassets\\css\\fileinput.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\index.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\queryApplication.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\queryApplication.css",
       "PackagePath": "staticwebassets\\css\\queryApplication.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\queryStatus.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\queryStatus.css",
       "PackagePath": "staticwebassets\\css\\queryStatus.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\sequenceChoice.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\sequenceChoice.css",
       "PackagePath": "staticwebassets\\css\\sequenceChoice.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\css\\site.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\favicon.ico",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\add.svg",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\img\\add.svg",
       "PackagePath": "staticwebassets\\img\\add.svg"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\announcement.svg",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\img\\announcement.svg",
       "PackagePath": "staticwebassets\\img\\announcement.svg"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\close.svg",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\img\\close.svg",
       "PackagePath": "staticwebassets\\img\\close.svg"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\delete.svg",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\img\\delete.svg",
       "PackagePath": "staticwebassets\\img\\delete.svg"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\hambuger.svg",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\img\\hambuger.svg",
       "PackagePath": "staticwebassets\\img\\hambuger.svg"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\img\\select.svg",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\img\\select.svg",
       "PackagePath": "staticwebassets\\img\\select.svg"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\all-krajee.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\js\\all-krajee.min.js",
       "PackagePath": "staticwebassets\\js\\all-krajee.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\fileinput.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\js\\fileinput.min.js",
       "PackagePath": "staticwebassets\\js\\fileinput.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\js\\site.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

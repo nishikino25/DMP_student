@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\DMP_student.csproj": {}
+    "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\DMP_student.csproj": {}
   },
   "projects": {
-    "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\DMP_student.csproj": {
+    "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\DMP_student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\DMP_student.csproj",
+        "projectUniqueName": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\DMP_student.csproj",
         "projectName": "DMP_student",
-        "projectPath": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\DMP_student.csproj",
+        "projectPath": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\DMP_student.csproj",
         "packagesPath": "C:\\Users\\cute0\\.nuget\\packages\\",
-        "outputPath": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student\\DMP_student\\obj\\",
+        "outputPath": "F:\\NTUST-計中打工\\202305 輔系雙主修\\DMP_student2\\DMP_student\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

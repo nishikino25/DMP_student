@@ -1,0 +1,192 @@
+﻿.text-center{
+    width:100%;
+}
+
+#dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: white;
+    padding: 10px;
+    margin: 20px 10px;
+    border-radius: 5px;
+}
+
+#announcement {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+    margin: 20px 10px;
+    border-radius: 99px;
+}
+
+#announcement-icon {
+    display: flex;
+    align-items: center;
+    width: 30px;
+    margin: 0 20px;
+}
+
+#announcement-word {
+    display: flex;
+    text-align: left;
+    font-weight: bold;
+    line-height: 20px;
+    color: var(--gray);
+    cursor: pointer;
+}
+
+.blocks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 25px;
+    width: 45%;
+    padding: 10px 10px 30px;
+    margin: 0 10px 0 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.block .fuction-word {
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--brown);
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.text-secondary {
+    color: var(--gray);
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 0px;
+}
+
+.studentinfo-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.studentinfo-group > .studentinfo {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+/*table*/
+.application-form {
+    display: flex;
+    flex-direction: column;
+    border: solid 2px var(--lightgray);
+    border-radius: 16px;
+    padding: 10px 0;
+    margin: 5px 0;
+    width: 100%;
+    word-wrap: break-word;
+}
+
+.row-group {
+    display: flex;
+    flex-direction: row;
+    padding: 0 4px;
+    line-height: 2rem;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.row-group:nth-child(even) {
+    background-color: var(--morelightgray); /* 偶數行背景色 */
+}
+
+
+.col-1 {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-2 {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: solid 2px var(--orange);
+}
+
+.col-3 {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: solid 2px var(--orange);
+}
+
+
+
+@media all and (max-width: 800px) {
+    #dashboard {
+        background-color: var(--lightorange);
+        padding: 0;
+    }
+
+    #announcement {
+        background-color: var(--lightorange);
+        padding: 0;
+        margin: 10px;
+        width: 100%;
+    }
+
+    #announcement-icon {
+        background-color: white;
+        border-radius: 99px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        width: -moz-fit-content;
+        width: fit-content;
+        padding: 10px;
+    }
+
+    #announcement-word {
+        background-color: white;
+        border-radius: 28px;
+        padding: 16px;
+        width: 80%;
+    }       
+
+    .block {
+        margin: 0 0 20px 0;
+    }
+
+    .block .fuction-word {
+        font-size: 20px;
+    }
+
+    .studentinfo-group > .studentinfo {
+        font-size: 16px;
+        word-wrap: break-word;
+    }
+
+    /*如果你要BLOCK顯示直的 啟用這邊*/
+    /*.blocks { 
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .block {
+        margin: 0 0 20px 0;
+        width: 80%;
+    }*/
+
+}

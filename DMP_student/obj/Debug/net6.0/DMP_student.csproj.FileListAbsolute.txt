@@ -91,3 +91,43 @@ C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\r
 C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.pdb
 C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\DMP_student.genruntimeconfig.cache
 C:\Users\a4cc0\OneDrive\文件\GitHub\DMP_student\DMP_student\obj\Debug\net6.0\ref\DMP_student.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\appsettings.Development.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\appsettings.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\DMP_student.staticwebassets.runtime.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\DMP_student.exe
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\DMP_student.deps.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\DMP_student.runtimeconfig.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\DMP_student.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\DMP_student.pdb
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.csproj.AssemblyReference.cache
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.GeneratedMSBuildEditorConfig.editorconfig
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.AssemblyInfoInputs.cache
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.AssemblyInfo.cs
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.csproj.CoreCompileInputs.cache
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.MvcApplicationPartsAssemblyInfo.cache
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.RazorAssemblyInfo.cache
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.RazorAssemblyInfo.cs
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.DMP_student.Microsoft.AspNetCore.StaticWebAssets.props
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.build.DMP_student.props
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DMP_student.props
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DMP_student.props
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\staticwebassets.pack.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\staticwebassets.build.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\staticwebassets.development.json
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\scopedcss\bundle\DMP_student.styles.css
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\scopedcss\projectbundle\DMP_student.bundle.scp.css
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\refint\DMP_student.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.pdb
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.genruntimeconfig.cache
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\ref\DMP_student.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\System.Web.Mvc.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\System.Web.Razor.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\System.Web.Helpers.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\System.Web.WebPages.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\NTUST-計中打工\202305 輔系雙主修\DMP_student2\DMP_student\obj\Debug\net6.0\DMP_student.csproj.CopyComplete
