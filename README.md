@@ -1,6 +1,6 @@
 # 輔系雙主修系統 DMP_Student
 
-為了提升學生在平板和手機上的使用體驗，因此根據[原有系統](https://cour01.ntust.edu.tw/StudentDoubleMajor/Home/index)之功能，重新切版、設計該系統前端畫面，同時也規劃與開發可支援響應式網頁設計(RWD)，讓學生更方便地管理輔系和雙主修學分。
+為了提升學生在平板和手機上的使用體驗，因此根據[原有系統](https://cour01.ntust.edu.tw/StudentDoubleMajor/Home/index)之功能，重新切版、設計該系統前端畫面，同時也規劃與開發可支援響應式網頁設計(RWD)，讓學生更方便地查詢與管理自己的輔系和雙主修申請狀態。
 
 ## 環境與使用工具
 .NET CORE
